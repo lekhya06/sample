@@ -1,1 +1,2 @@
 sample line
+testing bare
